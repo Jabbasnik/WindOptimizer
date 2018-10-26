@@ -21,9 +21,9 @@ Uzupełnianie nazw w liście wyboru na podstawie wprowadzonych znaków, walidacj
 --- 
 
 Logowanie użytkownika
-<p align="center">Logowanie użytkownika
-  ![alt text](https://github.com/Jabbasnik/WindOptimizer/blob/master/logowanie.jpg "Logo Title Text 1")
-</p>
+
+ <div style="text-align:center"><img src ="(https://github.com/Jabbasnik/WindOptimizer/blob/master/logowanie.jpg " /></div>
+
 
 Okno główne aplikacji
 <p align="center">
