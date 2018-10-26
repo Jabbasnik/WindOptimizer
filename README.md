@@ -31,17 +31,17 @@ Okno główne aplikacji
 
 Okno obliczeń produkcji energii
 <p align="center">
-  <img />![alt text](https://github.com/Jabbasnik/WindOptimizer/blob/master/oknoTurbin.jpg"Logo Title Text 1")
+  <img />![alt text](https://github.com/Jabbasnik/WindOptimizer/blob/master/oknoTurbin.jpg "Logo Title Text 1")
 </p>
 
 Okno przyrostu energii
 <p align="center">
-  <img />![alt text](https://github.com/Jabbasnik/WindOptimizer/blob/master/wykresZPrzyrostem.jpg"Logo Title Text 1")
+  <img />![alt text](https://github.com/Jabbasnik/WindOptimizer/blob/master/wykresZPrzyrostem.jpg "Logo Title Text 1")
 </p>
 
 Moduł odpowiedzialny za ułatwienie wyszukiwania przez użytkownika
 <p align="center">
-  <img />![alt text](https://github.com/Jabbasnik/WindOptimizer/blob/master/uzupelnianie.jpg"Logo Title Text 1")
+  <img />![alt text](https://github.com/Jabbasnik/WindOptimizer/blob/master/uzupelnianie.jpg "Logo Title Text 1")
 </p>
 
 
