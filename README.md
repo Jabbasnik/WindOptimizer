@@ -21,28 +21,7 @@ Uzupełnianie nazw w liście wyboru na podstawie wprowadzonych znaków, walidacj
 --- 
 
 Logowanie użytkownika
-
- <div style="text-align:center"><img src ="https://github.com/Jabbasnik/WindOptimizer/blob/master/logowanie.jpg" /></div>
-
-
-Hello there !
-
-<div id="container">
-    <img />
-    This is an image
-</div>
-
-Hi !
-
-#container {
-    height:100px;
-    line-height:100px;
-}
-
-#container img {
-    vertical-align:middle;
-    max-height:100%;
-}
+<img align="center" src="https://github.com/Jabbasnik/WindOptimizer/blob/master/logowanie.jpg" alt="...">
 
 Okno główne aplikacji
 <p align="center">
