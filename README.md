@@ -22,7 +22,6 @@ Uzupełnianie nazw w liście wyboru na podstawie wprowadzonych znaków, walidacj
 
 #### Logowanie użytkownika
 <p align="center">
-  
   <img align="center" src="https://github.com/Jabbasnik/WindOptimizer/blob/master/logowanie.jpg" alt="...">
 </p>
 
