@@ -20,31 +20,31 @@ Uzupełnianie nazw w liście wyboru na podstawie wprowadzonych znaków, walidacj
 
 --- 
 
-Logowanie użytkownika
+#### Logowanie użytkownika
 <p align="center">
   
   <img />![alt text](https://github.com/Jabbasnik/WindOptimizer/blob/master/logowanie.jpg "Logo Title Text 1")
 </p>
 
-Okno główne aplikacji
+#### Okno główne aplikacji
 <p align="center">
   
   <img />![alt text](https://github.com/Jabbasnik/WindOptimizer/blob/master/oknoGlowne.jpg "Logo Title Text 1")
 </p>
 
-Okno obliczeń produkcji energii
+#### Okno obliczeń produkcji energii
 <p align="center">
   
   <img />![alt text](https://github.com/Jabbasnik/WindOptimizer/blob/master/oknoTurbin.jpg "Logo Title Text 1")
 </p>
 
-Okno przyrostu energii
+#### Okno przyrostu energii
 <p align="center">
   
   <img />![alt text](https://github.com/Jabbasnik/WindOptimizer/blob/master/wykresZPrzyrostem.jpg "Logo Title Text 1")
 </p>
 
-Moduł odpowiedzialny za ułatwienie wyszukiwania przez użytkownika
+#### Moduł odpowiedzialny za ułatwienie wyszukiwania przez użytkownika
 <p align="center">
   
   <img />![alt text](https://github.com/Jabbasnik/WindOptimizer/blob/master/uzupelnianie.jpg "Logo Title Text 1")
