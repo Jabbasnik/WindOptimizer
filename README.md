@@ -58,4 +58,4 @@ Uzupełnianie nazw w liście wyboru na podstawie wprowadzonych znaków, walidacj
   <img align="center" src="https://github.com/Jabbasnik/WindOptimizer/blob/master/uzupelnianie.jpg" alt="...">  
 </p>
 
-#### Wgląd do aplikacji możliwy po skontaktowaniu się z autorem
+### Wgląd do aplikacji możliwy po skontaktowaniu się z autorem
