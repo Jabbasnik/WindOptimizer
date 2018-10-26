@@ -4,3 +4,6 @@
 
 Aplikacja wykonana na potrzeby pracy magisterskiej pt.: "Oprogramowanie symulacyjne do oceny potencjału energetycznego wiatru w Polsce"
 
+Inline-style: 
+![alt text](https://github.com/Jabbasnik/WindOptimizer/blob/master/logowanie.jpg "Logo Title Text 1")
+
