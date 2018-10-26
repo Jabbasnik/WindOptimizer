@@ -28,13 +28,13 @@ Uzupełnianie nazw w liście wyboru na podstawie wprowadzonych znaków, walidacj
 #### Okno główne aplikacji
 <p align="center">
   
-  <img />![alt text](https://github.com/Jabbasnik/WindOptimizer/blob/master/oknoGlowne.jpg"Logo Title Text 1")
+  <img align="center" src="https://github.com/Jabbasnik/WindOptimizer/blob/master/oknoGlowne.jpg" alt="...">
 </p>
 
 #### Okno obliczeń produkcji energii
 <p align="center">
   
-  <img />![alt text](https://github.com/Jabbasnik/WindOptimizer/blob/master/oknoTurbin.jpg"Logo Title Text 1")
+  <img align="center" src="https://github.com/Jabbasnik/WindOptimizer/blob/master/oknoTurbin.jpg" alt="...">
 </p>
 
 #### Okno przyrostu energii
