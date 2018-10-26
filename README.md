@@ -17,10 +17,20 @@
 
 **Dodatkowo:**
 Uzupełnianie nazw w liście wyboru na podstawie wprowadzonych znaków, walidacje wprowadzanych danych, okno postępu wczytywania -uniemożlwianie nieporządanych akcji w trakcie wczytywania danych (concurrency).
+
 ---
-
-### Wykorzystane technologie
-
+### Wykorzystane technologie:
+* Java (Java EE, JavaFX, JPA, Java 8)
+* Hibernate
+* CSS
+* Lombok
+* MySQL
+* SQLite
+* Git (Github, GitFlow, BitBucket)
+* Maven
+* Docker
+* Sonar
+* Inne: IDEA Intellij, Clean Code, DDD, jUnit
 --- 
 
 #### Logowanie użytkownika
