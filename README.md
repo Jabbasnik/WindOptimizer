@@ -20,7 +20,7 @@ Uzupełnianie nazw w liście wyboru na podstawie wprowadzonych znaków, walidacj
 
 --- 
 
-<p>Logowanie użytkownika</p>
+Logowanie użytkownika
 <img align="center" src="https://github.com/Jabbasnik/WindOptimizer/blob/master/logowanie.jpg">
 
 Okno główne aplikacji
