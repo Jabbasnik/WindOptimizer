@@ -16,7 +16,7 @@
 * Moduł odpowiedzialny za wizualizację przyrostu produkcji eergii elektrycznej w czasie
 
 **Dodatkowo:**
-Uzupełnianie nazw w liście wyboru na podstawie wprowadzonych znaków, walidacje wprowadzanych danych, okno postępu wczytywanie uniemożlwiające nieporządane akcje w trakcie wczytywania danych (concurrency).
+Uzupełnianie nazw w liście wyboru na podstawie wprowadzonych znaków, walidacje wprowadzanych danych, okno postępu wczytywania -uniemożlwianie nieporządanych akcji w trakcie wczytywania danych (concurrency).
 
 --- 
 
