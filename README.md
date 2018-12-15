@@ -30,7 +30,7 @@ Uzupełnianie nazw w liście wyboru na podstawie wprowadzonych znaków, walidacj
 * Maven
 * Docker
 * Sonar
-* Inne: IDEA Intellij, Clean Code, DDD, jUnit
+* Inne: IDEA Intellij, Clean Code, jUnit
 --- 
 
 #### Logowanie użytkownika
